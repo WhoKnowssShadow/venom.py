@@ -1,4 +1,4 @@
-pycord
+Venom Py
 ==========
 
 .. image:: https://img.shields.io/discord/881207955029110855?color=5865f2&label=Discord&logo=discord
